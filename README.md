@@ -1,5 +1,6 @@
 # The-HERO-CLASS
 Mini-Game Object Lifecycle Architecture
+
 This repository contains the C++ source code demonstrating advanced object lifecycles, memory management, and class relationships (Inheritance, Composition, Aggregation, Dependency) for a theoretical Role-Playing Game (RPG).
 
 How to Compile and Run
