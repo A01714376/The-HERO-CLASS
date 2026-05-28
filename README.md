@@ -12,6 +12,7 @@ g++ -std=c++11 main.cpp -o game
 Once compilation is complete, run the generated executable:
 On Windows:
 game.exe or .\game
+
 On Linux/macOS:
 ./game
 
